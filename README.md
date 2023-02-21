@@ -1,3 +1,6 @@
+# NFT Marketplace - Showcase
+![NFT Marketplace](https://i.ibb.co/X5kYdvB/image.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
